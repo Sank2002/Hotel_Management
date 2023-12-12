@@ -1,0 +1,1 @@
+Created a hotel management which render features and details of of Products. Functionalities like, adding quantity, rendering live Timer, validation, file handling, buttons functionalities, generate bill receipt, remanipulating text area, Calculator Included in it are demonstrated in it.
